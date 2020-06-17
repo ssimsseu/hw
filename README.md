@@ -6,9 +6,9 @@
 ## 2주차 과제 (2020.05.28)
 - [hw2](https://github.com/ssimsseu/hw/blob/master/hw2.ipynb)
 
-## 3주차 과제 (2020.05.28)
+## 3주차 과제 (2020.06.10)
 - [hw3](https://github.com/ssimsseu/hw/blob/master/hw3.ipynb)
 
-## 4주차 과제 (2020.05.28)
+## 4주차 과제 (2020.06.17)
 - [hw4](https://github.com/ssimsseu/hw/blob/master/hw4.ipynb)
 
